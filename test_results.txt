@@ -1,0 +1,13 @@
+test_complex_expression (test_stack_evaluator.TestExpressionEvaluator.test_complex_expression) ... ok
+test_division (test_stack_evaluator.TestExpressionEvaluator.test_division) ... ok
+test_division_by_zero (test_stack_evaluator.TestExpressionEvaluator.test_division_by_zero) ... ok
+test_exponent (test_stack_evaluator.TestExpressionEvaluator.test_exponent) ... ok
+test_mismatched_parentheses (test_stack_evaluator.TestExpressionEvaluator.test_mismatched_parentheses) ... ok
+test_parentheses (test_stack_evaluator.TestExpressionEvaluator.test_parentheses) ... ok
+test_precedence (test_stack_evaluator.TestExpressionEvaluator.test_precedence) ... ok
+test_push_peek_pop (test_stack_evaluator.TestStack.test_push_peek_pop) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.001s
+
+OK
